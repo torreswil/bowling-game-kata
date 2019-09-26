@@ -2,12 +2,12 @@ Bowling Game Kata
 =================
 > El clásico del tío Bob implementado en * JavaScript *
 
-[puntaje de boliche]: http://www.wpclipart.com/recreation/sports/bowling/bowling_scoresheet_example.png "tarjeta de puntaje de bolos"
+[bowling-score]: http://www.wpclipart.com/recreation/sports/bowling/bowling_scoresheet_example.png "bowling score card"
 
 
 ## Bolos de puntuación
 
-! [Marcador de bolos] [puntaje de bolos]
+![Bowling scoreboard][bowling-score]
 
 El juego consta de 10 cuadros como se muestra arriba. En cada cuadro el jugador tiene
 Dos oportunidades para derribar 10 pines. La puntuación para el cuadro es el total
