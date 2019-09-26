@@ -5,7 +5,7 @@ Bowling Game Kata
 [bowling-score]: http://www.wpclipart.com/recreation/sports/bowling/bowling_scoresheet_example.png "bowling score card"
 
 
-## Bolos de puntuación
+## Puntuación de bolos
 
 ![Bowling scoreboard][bowling-score]
 
